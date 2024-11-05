@@ -48,6 +48,7 @@ body {
   border: 5px solid var(--secondary-color);
   padding: 40px;
   width: 50%;
+  height: auto;
   margin-bottom: 30px;
 }
 
